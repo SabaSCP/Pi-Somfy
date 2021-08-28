@@ -3,3 +3,5 @@ configparser
 Flask
 paho-mqtt
 pigpio
+cc1101
+
